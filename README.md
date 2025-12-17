@@ -2,7 +2,7 @@
 A hastily made electron wrapper for [Flashiibo Pro Tools](https://app.flashiibo.com/). Made with love for those who refuse to use anything other than FireFox.
 
 ## Installation
-1. Download `Flashiibo-Setup.exe` from Releases
+1. Download ` flashiibo-pro-tools-vXXX-setup.exe` from Releases
    *(Portable version also available)*
 2. Run installer (or extract portable EXE)
 3. If installed, you'll have it in your Start Menu!
