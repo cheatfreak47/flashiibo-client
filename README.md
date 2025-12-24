@@ -10,9 +10,9 @@ For updating the firmware of a Flashiibo Pro, you may be interested in [Flashiib
 
 ## How to use:
  1. Download `flashiibo-pro-tools-vXXX-setup.exe` from [Releases](https://github.com/cheatfreak47/flashiibo-client/releases).
-   <sup>*(or download the portable version if you prefer)*</sup>
+    - *(or download the portable version if you prefer)*
  2. Run installer and complete setup, and run the program. (or run the portable version.)
-   <sup>*(If installed you may run it anytime from the Start Menu)*</sup>
+    - *(If installed you may run it anytime from the Start Menu)* 
  3. Open the User Manual page on your Flashiibo Pro, to enter Bluetooth mode.
  4. Click on "Connect" to connect to your Flashiibo Pro, and use the UI to manage device files.
 
